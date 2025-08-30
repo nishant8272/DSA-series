@@ -52,12 +52,12 @@ public class javaBasic{
  
 // by type casting
 //we can change the big data type variable into small data type variable
-public class javaBasic{
-    public static void main(String []args){
-        int b = (int)(999.99f);
-        System.out.println(b);
+// public class javaBasic{
+//     public static void main(String []args){
+//         int b = (int)(999.99f);
+//         System.out.println(b);
         
-    }
-}  
+//     }
+// }  
 
 
